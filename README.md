@@ -1,30 +1,28 @@
-# 🧠 Real-Time Object Detection using YOLOv8 with Webcam Integration
+# 🧠 Title: Real-Time Object Detection using YOLOv8 with Webcam Integration
 
 This project demonstrates a real-time object detection system using the **YOLOv8** model, integrated with a webcam for live video feed analysis. It utilizes **Ultralytics' YOLOv8n** model for efficient and accurate detection on standard computing hardware.
 
-## 👨‍💻 Author
-**Apurba Sarkar**  
-   2401010280
+# 👨‍💻 Team leader 
+## Name : Apurba sarkar 
+## Roll no.: 2401010280
 
-## 📸 Demo
+**Video link** : https://drive.google.com/file/d/1-MMzk_2IcPGN7Kldj9D20gkfYHZyBona/view?usp=drivesdk
 
-![Sample Detection](path_to_screenshot_or_gif)  
-*Real-time webcam object detection using YOLOv8*
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 - **Model**: YOLOv8n (Ultralytics)
 - **Language**: Python 3.10
 - **Libraries**: Ultralytics, OpenCV, NumPy, Matplotlib
 - **Platform**: Google Colab / VS Code (Local Machine)
 - 
-## 🚀 Features
+# 🚀 Features
 
 - Real-time object detection on webcam feed
 - Lightweight YOLOv8n model for high FPS on low-resource systems
 - Bounding boxes with confidence scores
 - Easily extensible for custom models and edge devices
 
-📊 Results
+# 📊 Results
 FPS: ~20–30 FPS on i5, 8GB RAM laptop
 
 Accuracy: High confidence detection of people, phones, plants, etc.
